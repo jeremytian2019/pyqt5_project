@@ -1,0 +1,8 @@
+1.安装Anaconda环境，集成python和众多第三方库
+2.安装pyqt5模块
+pip install pyqt5
+3.IDE：PyCharm
+4.pycharm配置QtDesigner插件
+5.将.ui文件转化成.py文件
+方法一：
+python -m PyQt5.uic.pyuic demo.ui -o demo.py
